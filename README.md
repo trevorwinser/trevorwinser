@@ -1,6 +1,3 @@
-# Hello, and welcome to my GitHub Profile. My name is...
-
-
 ```                                                                                                                         
   ______                             _       ___                     
  /_  __/_______ _   ______  _____   | |     / (_)___  ________  _____
