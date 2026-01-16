@@ -8,7 +8,7 @@
   My first game was an endless wave shooter starring a cowboy shooting zombies.
 1. [Deduction](https://github.com/trevorwinser/Deduction).
   An online board game about solving a murder by making guesses with various clues. As of Jan 14, 2026, the game can be played [here](https://deduction-production.up.railway.app/).
-1. Total Drama Island 6-9.
+1. [Total Drama Island](https://github.com/trevorwinser/TDI).
   A Minecraft-based series of games I made for friends. Each version, I improved my understanding of player interests, habits, and feedback.
 1. [Hogs and Humans](https://www.reddit.com/r/realms/comments/1nczxv6/map_submission_hogs_and_humans_minigame/).
   A Minecraft parody of a Gary's Mod game, focusing on deception and investigation. I made this because I like the original game, and my friends enjoy deception games.
