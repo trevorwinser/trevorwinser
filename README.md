@@ -4,7 +4,7 @@
 ## Solo Projects
 
 1. [Deduction](https://github.com/trevorwinser/Deduction).
-  An online board game about solving a murder by making guesses with various clues. As of Jan 21, 2026, the game can be played [here](https://deduction-production.up.railway.app/).
+  A web app for solving an online board game that involves making guesses about a murder using various clues. As of Jan 21, 2026, the game can be played [here](https://deduction-production.up.railway.app/).
 1. [Merinalt Nudegon](https://github.com/trevorwinser/MerinaltNudegon).
   A terminal dungeon created as an educational project to teach myself JavaScript.
 1. [Fall Through](https://pixelstolookat.itch.io/fall-through).
