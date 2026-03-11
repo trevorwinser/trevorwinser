@@ -14,7 +14,7 @@
 1. [Minecraft Projects](https://github.com/trevorwinser/minecraft).
 
 ## Collaborative Projects
-1. [Capstone - Image Aesthetics](https://github.com/COSC-499-W2024/capstone-project-team-5-003).
+1. Capstone - Image Aesthetics.
   The Capstone project focuses on custom image generation, web-based data analysis, and interactive survey creation.
 1. [Tanks For Nothing](https://lluisem.itch.io/tanks-for-nothing).
   A tank fighting game with different algorithmic tank bots on unique levels created in Unity.
